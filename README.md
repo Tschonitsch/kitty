@@ -1,2 +1,1 @@
 # kitty
- kitty terminal config
